@@ -12,6 +12,8 @@ Repository to study and explore the Julia language with examples and [tutorial](
 
 Install the language with this [link](https://julialang.org/downloads/#current_stable_release).
 
+If you will have problems with the path Julia, access the [link](https://julialang.org/downloads/platform/#installation_notes).
+
 ## Run codes
 
 To run the code at runtime you can put the command line in the terminal:
